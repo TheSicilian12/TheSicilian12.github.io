@@ -127,7 +127,8 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #49bf9d !important;
+			/* color: #49bf9d !important; */
+			color:#49fb35 !important;
 			text-decoration: none;
 		}
 
@@ -2668,7 +2669,8 @@ input, select, textarea {
 	}
 
 		#footer .icons a {
-			color: rgba(255, 255, 255, 0.4);
+			/* color: rgba(255, 255, 255, 0.4); */
+			color: rgba(255, 255, 255, 0.699);
 		}
 
 	#footer .copyright {
