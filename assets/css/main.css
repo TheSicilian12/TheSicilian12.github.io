@@ -3243,6 +3243,7 @@ input, select, textarea {
 
 .check-out {
 	text-decoration: underline;
+	color: gray;
 }
 .check-out:hover {
 	text-decoration: underline;
