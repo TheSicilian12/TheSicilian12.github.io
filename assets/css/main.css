@@ -3240,3 +3240,11 @@ input, select, textarea {
 			}
 
 	}
+
+.check-out {
+	text-decoration: underline;
+}
+.check-out:hover {
+	text-decoration: underline;
+	color: darkgreen;
+}
